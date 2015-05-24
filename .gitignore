@@ -9,7 +9,20 @@
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
+/db/*.mysql2
 
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+/config/database.yml
+/db/schema.rb
+/public/assets
+/public/dev-assets
+/public/stage-assets
+/public/uploads
+/.idea
+/*.tmpproj
+/nbproject/
+.DS_Store
+.rvmrc
+coverage
