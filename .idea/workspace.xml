@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c8a823b-31ff-471c-bfa9-3cf0a5ef9cb5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/site.iml" afterPath="$PROJECT_DIR$/.idea/site.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="site.iws" />
@@ -505,7 +503,11 @@
       <created>1432496365180</created>
       <updated>1432496365180</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="iml, xml file change&#10;">
+      <created>1432496434352</created>
+      <updated>1432496434352</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -546,7 +548,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="nav bar added" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav bar added" />
+    <MESSAGE value="iml, xml file change&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="iml, xml file change&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
