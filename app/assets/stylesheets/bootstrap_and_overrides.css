@@ -6,7 +6,7 @@
   =require twitter-bootstrap-static/fontawesome
   */
 
-body,.resume,.about,.contact {
+.home,.resume,.about,.contact {
     padding-top: 70px;
 }
 .navbar-fixed-top .navbar-inner{
@@ -25,6 +25,7 @@ body,.resume,.about,.contact {
 }
 .navbar .nav > li > a{
     font-size: 20px;
+    text-align: center;
 }
 .navbar-inner .container,.nav,.active{
    min-height: 70px;
