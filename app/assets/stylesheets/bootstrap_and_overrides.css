@@ -15,10 +15,10 @@ body,.resume,.about,.contact {
 .navbar .nav{
     width: 80%;
 }
-.navbar-fixed-top .navbar-inner .container{
-    border-radius: 35px;
-    background-color: #6ABCD6;
-}
+/*.navbar-fixed-top .navbar-inner .container{*/
+    /*border-radius: 35px;*/
+    /*background-color: #6ABCD6;*/
+/*}*/
 .navbar .nav > li {
     width: 15%;
     line-height: 50px;
