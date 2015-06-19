@@ -52,7 +52,7 @@
 }
 .resume,.home{
     padding-left: 10px;
-    border-bottom: 1px solid cornflowerblue;
+    /*border-bottom: 1px solid cornflowerblue;*/
 }
 .resume .image-container{
     text-align: center;
@@ -91,5 +91,6 @@
 }
 .picon-container .phone-number, .email,.address,.linkedin,.dob{
     font-size: 20px;
+    display: block;
     /*font-weight: bold;*/
 }
