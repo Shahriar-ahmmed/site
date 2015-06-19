@@ -50,3 +50,46 @@
 .footer .footer-bottom{
     text-align: center;
 }
+.resume,.home{
+    padding-left: 10px;
+    border-bottom: 1px solid cornflowerblue;
+}
+.resume .image-container{
+    text-align: center;
+}
+.resume .name{
+    text-align: center;
+}
+.resume .col-1{
+    background-color: #A4FAFA;
+    padding: 0 5px 0 5px;
+    display: block;
+}
+.resume .resume-image{
+    width: 200px;
+    height: 200px;
+    /*background-size: cover;*/
+    /*display: block;*/
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+}
+.objective .objective-text{
+    font-size: 20px;
+    line-height: 30px;
+    /*font-weight: inherit;*/
+    text-align: justify;
+}
+.picon-container{
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+.picon{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.picon-container .phone-number, .email,.address,.linkedin,.dob{
+    font-size: 20px;
+    /*font-weight: bold;*/
+}

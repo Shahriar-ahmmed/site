@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c8a823b-31ff-471c-bfa9-3cf0a5ef9cb5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.easing.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/scrolling-nav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/scrolling-nav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/DOB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/address.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/email.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/experience.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/iconEducation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/lin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/options.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/programming.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/tuhin.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/custom.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/custom.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/index.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="site.iws" />
@@ -23,7 +29,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/site@Development__site.coverage" NAME="Development: site Coverage Results" MODIFIED="1434584087871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="site" />
+    <SUITE FILE_PATH="coverage/site@Development__site.coverage" NAME="Development: site Coverage Results" MODIFIED="1434746132227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="site" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -46,19 +52,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap_and_overrides.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="bootstrap_and_overrides.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1160">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrolling-nav.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scrolling-nav.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="25" selection-start="353" selection-end="353" vertical-scroll-proportion="0.98630136" vertical-offset="0" max-vertical-offset="1300">
+            <state line="52" column="13" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.91940296" vertical-offset="732" max-vertical-offset="2000">
               <folding />
             </state>
           </provider>
@@ -67,7 +64,16 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="41" selection-start="467" selection-end="467" vertical-scroll-proportion="-7.586207" vertical-offset="0" max-vertical-offset="1260">
+            <state line="69" column="0" selection-start="2476" selection-end="2476" vertical-scroll-proportion="-14.103448" vertical-offset="971" max-vertical-offset="1720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="4" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220">
               <folding />
             </state>
           </provider>
@@ -77,9 +83,7 @@
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,7 +91,7 @@
       <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="26" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
+            <state line="11" column="26" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="560">
               <folding />
             </state>
           </provider>
@@ -140,9 +144,10 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.scss" />
         <option value="$PROJECT_DIR$/app/views/welcome/_footer.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/custom.js" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/scrolling-nav.css" />
+        <option value="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/scrolling-nav.css" />
       </list>
     </option>
   </component>
@@ -155,9 +160,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -251,11 +256,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,25 +296,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -312,6 +313,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images" />
       <recent name="$PROJECT_DIR$/app/assets/stylesheets" />
       <recent name="$PROJECT_DIR$/app/assets/javascripts" />
     </key>
@@ -482,31 +484,35 @@
       <created>1434591082297</created>
       <updated>1434591082297</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="page scroll added">
+      <created>1434593269483</created>
+      <updated>1434593269483</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25577688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2565737" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993808" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -548,24 +554,13 @@
     <MESSAGE value="iml, xml file change 2&#10;" />
     <MESSAGE value="nav changes and clickable" />
     <MESSAGE value="nav changes and clickable&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav changes and clickable&#10;" />
+    <MESSAGE value="page scroll added" />
+    <option name="LAST_COMMIT_MESSAGE" value="page scroll added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="1060">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/rails.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="41" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.0" vertical-offset="698" max-vertical-offset="1260">
@@ -576,9 +571,7 @@
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="440">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -802,9 +795,7 @@
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -815,16 +806,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="40" selection-start="712" selection-end="712" vertical-scroll-proportion="0.5536332" vertical-offset="0" max-vertical-offset="46380">
-          <folding />
-        </state>
+        <state line="20" column="40" selection-start="712" selection-end="712" vertical-scroll-proportion="0.5536332" vertical-offset="0" max-vertical-offset="46380" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/scrolling-nav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/custom.js">
@@ -834,23 +821,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scrolling-nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="25" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/email.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/lin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/address.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="41" selection-start="467" selection-end="467" vertical-scroll-proportion="-7.586207" vertical-offset="0" max-vertical-offset="1260">
+        <state line="69" column="0" selection-start="2476" selection-end="2476" vertical-scroll-proportion="-14.103448" vertical-offset="971" max-vertical-offset="1720">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1160">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scrolling-nav.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="25" selection-start="353" selection-end="353" vertical-scroll-proportion="0.98630136" vertical-offset="0" max-vertical-offset="1300">
+        <state line="52" column="13" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.91940296" vertical-offset="732" max-vertical-offset="2000">
           <folding />
         </state>
       </provider>
