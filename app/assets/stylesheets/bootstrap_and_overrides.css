@@ -93,6 +93,7 @@
     border-radius: 100px;
     -webkit-border-radius: 100px;
     -moz-border-radius: 100px;
+    border: 1px solid orangered;
 }
 .objective .objective-text{
     font-size: 16px;
@@ -105,9 +106,9 @@
     margin: 20px 0 20px 0;
 }
 .picon,.icon{
-    width: 50px;
-    height: 50px;
-    border-radius: 25px;
+    width: 45px;
+    height: 45px;
+    border-radius: 22px;
 }
 .picon-container .phone-number, .email,.address,.linkedin,.dob{
     font-size: 20px;
@@ -123,16 +124,15 @@
     height: 30px;
     align-content: center;
 }
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
 .doticon{
     width: 90%;
-    color: #ffffff;
-    background: #ffffff url("dot.jpeg") left center /1% repeat-x scroll content-box;
+    /*color: #ffffff;*/
+    /*background: #ffffff url("") left center /1% repeat-x scroll content-box;*/
     display: inline-block;
-}
-.degree,.passing-year{
-    width: 5%;
-    display: inline-block;
-
 }
 .clearfix{
     visibility: hidden;
@@ -142,12 +142,6 @@
     clear: both;
     height: 0;
 }
-.third-col{
-      margin-left: 80px;
-}
-.fourth-col{
-    margin-left: 124px;
-}
 .institute,.subject,.result{
     display: inline-block;
 }
@@ -155,11 +149,15 @@
     font-size: 14px;
     font-weight: bold;
 }
+.company-name h4, .degree h4{
+    margin: 3px 0;
+}
 h1,h2,h3,h4,h5,h6{
     color: #1FAED5;
 }
-.education .institute h3, .experience h3{
+.education .institute h4, .experience h4{
     color: #1FAED5;
     font-size: 20px;
     line-height: 20px;
+    margin: 3px 0;
 }
