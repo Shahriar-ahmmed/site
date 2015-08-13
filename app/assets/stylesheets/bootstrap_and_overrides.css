@@ -5,16 +5,8 @@
   To use Glyphicons sprites instead of Font Awesome, replace with "require twitter-bootstrap-static/sprites"
   =require twitter-bootstrap-static/fontawesome
   */
-
-.home,.resume,.about,.contact {
+.home,.about,.contact {
     padding-top: 70px;
-}
-.home{
-    background-color: dodgerblue;
-}
-.resume{
-    /*background-color: royalblue;*/
-    /*background: #D7D7D7 none repeat scroll 0% 0%;*/
 }
 .about{
     background-color: skyblue;
@@ -28,10 +20,6 @@
 .navbar .nav{
     width: 80%;
 }
-/*.navbar-fixed-top .navbar-inner .container{*/
-    /*border-radius: 35px;*/
-    /*background-color: #6ABCD6;*/
-/*}*/
 .navbar .nav > li {
     width: 15%;
     line-height: 50px;
@@ -46,7 +34,7 @@
 .navbar-fixed-top .navbar-inner .container ul{
     margin-left: 30px;
 }
-.home,.resume,.about,.contact{
+.home,.about,.contact{
     min-height: 603px;
 }
 .home{
@@ -65,13 +53,10 @@
 .footer .footer-bottom{
     text-align: center;
 }
-.resume{
-    height: 1070px;
-}
 .resume-container{
     z-index: 200;
     position: relative;
-    margin: 30px 40px;
+    margin: 80px 40px;
 }
 .resume .image-container{
     text-align: center;
@@ -88,8 +73,6 @@
 .resume .resume-image{
     width: 200px;
     height: 200px;
-    /*background-size: cover;*/
-    /*display: block;*/
     border-radius: 100px;
     -webkit-border-radius: 100px;
     -moz-border-radius: 100px;
@@ -98,38 +81,48 @@
 .objective .objective-text{
     font-size: 16px;
     line-height: 30px;
-    /*font-weight: inherit;*/
     text-align: justify;
 }
 .picon-container{
-    text-align: center;
-    margin: 20px 0 20px 0;
+    /*text-align: left;*/
+    margin: 12px 0;
+    /*padding: 0 0 0 10px;*/
 }
-.picon,.icon{
+.picon{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+.language-skill, .tools-skill, .interest,.skill-wall{
+    text-align: justify;
+    padding: 0 44px;
+}
+.icon{
     width: 45px;
     height: 45px;
     border-radius: 22px;
+    margin: 5px 0;
 }
 .picon-container .phone-number, .email,.address,.linkedin,.dob{
-    font-size: 20px;
-    display: block;
+    font-size: 16px;
+    display: inline-block;
     /*font-weight: bold;*/
 }
 .col-2{
     /*background: #D7D7D7 none repeat scroll 0% 0%;*/
 }
-.icon-container{
-    text-align: center;
-    width: auto;
-    height: 30px;
-    align-content: center;
-}
+/*.icon-container{*/
+    /*text-align: center;*/
+    /*width: auto;*/
+    /*height: 30px;*/
+    /*align-content: center;*/
+/*}*/
 .container-fluid {
     padding-right: 0;
     padding-left: 0;
 }
 .doticon{
-    width: 90%;
+    /*width: 90%;*/
     /*color: #ffffff;*/
     /*background: #ffffff url("") left center /1% repeat-x scroll content-box;*/
     display: inline-block;
@@ -145,10 +138,6 @@
 .institute,.subject,.result{
     display: inline-block;
 }
-.subject{
-    font-size: 14px;
-    font-weight: bold;
-}
 .company-name h4, .degree h4{
     margin: 3px 0 1px 0;
 }
@@ -160,4 +149,14 @@ h1,h2,h3,h4,h5,h6{
     font-size: 20px;
     line-height: 20px;
     margin: 3px 0 1px 0;
+}
+.small-icon{
+    width: 40px;
+    height: 25px;
+}
+.award-text span{
+    font: 16px;
+    line-height: 20px;
+    margin: 0 0;
+    color: #1FAED5;
 }
