@@ -12,7 +12,7 @@
     background-color: skyblue;
 }
 .contact{
-    background-color: cornflowerblue;
+    background-color: rgba(154, 154, 154, 0.27);
 }
 .navbar-fixed-top .navbar-inner{
     min-height: 70px;
@@ -34,24 +34,20 @@
 .navbar-fixed-top .navbar-inner .container ul{
     margin-left: 30px;
 }
-.home,.about,.contact{
+.home,.about{
     min-height: 603px;
 }
 .home{
     background: #ffffff url("bimage1.jpg") 0 0/cover no-repeat scroll content-box;
 }
 .footer{
-    background-color: #ffffff;
+    background-color: skyblue;
 }
-.footer .container {
-    padding-bottom: 0;
-  }
-.footer  .span2 {
-    margin-left: 10px;
-    width: 185px;
-  }
 .footer .footer-bottom{
     text-align: center;
+}
+.footer-bottom p{
+    margin: 7px 0;
 }
 .resume-container{
     z-index: 200;
@@ -89,9 +85,9 @@
     /*padding: 0 0 0 10px;*/
 }
 .picon{
-    width: 40px;
-    height: 40px;
-    border-radius: 20px;
+    width: 35px;
+    height: 35px;
+    border-radius: 17px;
 }
 .language-skill, .tools-skill, .interest,.skill-wall{
     text-align: justify;
@@ -159,4 +155,37 @@ h1,h2,h3,h4,h5,h6{
     line-height: 20px;
     margin: 0 0;
     color: #1FAED5;
+}
+.social-icon{
+    width: 44px;
+    height: 44px;
+    border-radius: 22px;
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.fb{
+    background: url("icon.png") repeat scroll 45% 32% transparent;
+    margin-left: 0;
+}
+.lin{
+    background: url("icon.png") repeat scroll 45% 56% transparent;
+}
+.gplus{
+    background: url("icon.png") repeat scroll 45% 44% transparent;
+}
+.skype{
+    background: url("icon.png") repeat scroll 81% 69% transparent;
+}
+.contact-form{
+    width: 90%;
+    max-height: 200px;
+}
+.contact-form-submit{
+    float: right;
+    margin-right: 35px;
+    background-color: #72AB00;
+}
+.contact-form-container{
+    margin: 10px 0 35px 0;
 }
