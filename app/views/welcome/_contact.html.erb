@@ -1,0 +1,69 @@
+<div class="contact" id="contact">
+  <div class="row-fluid">
+    <div class="container-fluid">
+      <div class="span2"></div>
+
+      <div class="span8">
+        <div class="row-fluid">
+          <div class="container-fluid">
+            <h2 class="contact-title">CONTACT</h2>
+
+            <div class="span4">
+              <span class="name">Shahriar Ahmmed</span>
+              <div class="picon-container">
+                <%= image_tag 'phone.png', class: 'picon' %>
+                <div class="phone-number">+08801714755033</div>
+              </div>
+              <div class="picon-container">
+                <%= image_tag 'address.png', class: 'picon' %>
+                <div class="address"> 51/A/3 West Rajabajar, Dhaka</div>
+              </div>
+              <div class="picon-container">
+                <%= image_tag 'email.jpg', class: 'picon' %>
+                <%= mail_to 'tuhinshahriar@gmail.com', 'tuhinshahriar@gmail.com', class: 'email' %>
+              </div>
+              <div class="community-icon">
+                <a href="http://facebook.com/shahriarahmmed.tuhin" target="_blank" class="social-icon fb"></a>
+                <a href="http://bd.linkedin.com/in/ahmmed" target="_blank" class="social-icon lin"></a>
+                <a href="http://" class="social-icon gplus"></a>
+
+                <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+                <a href="#" id="SkypeButton_Call_tuhin_ahmmed_1" class="social-icon skype">
+
+                </a>
+
+                <a href="http://" class="social-icon skype"  ></a>
+              </div>
+              <div class="picon-container"></div>
+              <div class="picon-container"></div>
+            </div>
+            <div class="contact-form-container span7">
+              <div> <p>Eager to answering your mail</p> </div>
+              <%= form_for '' do |f| %>
+                  <%= f.text_field :name, class: 'contact-form' %>
+                  <%= f.email_field :email, class: 'contact-form' %>
+                  <%= f.text_field :subject, class: 'contact-form' %>
+                  <%= f.text_area :message , class: 'contact-form'%>
+
+                  <%= f.submit 'Send', class: 'btn btn-info contact-form-submit' %>
+
+              <% end %>
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="span2"></div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+    Skype.ui({
+        "name": "call",
+        "element": "SkypeButton_Call_tuhin_ahmmed_1",
+        "participants": ["tuhin_ahmmed"],
+        "imageColor": "white"
+    });
+</script>
