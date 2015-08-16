@@ -21,11 +21,20 @@
 
 
 <div class="home" id="home">
+  <div class="row-fluid">
+    <div class="container-fluid">
+      <div class="span2">
 
-  <h1>Welcome to my website </h1>
-  <p>Find me in facebook tuhinshahriar@gmail.com </p>
+      </div>
+      <div class="home-about-me span8">
+        <%= image_tag 'tuhin.png', class: 'home-image img-circle'%>
+        <h1 style="text-align: center">I am RoR web Developer </h1>
+      </div>
+      <div class="span2">
 
-  <%= image_tag('rails.png')%>
+      </div>
+    </div>
+  </div>
 
 </div>
 
@@ -375,10 +384,16 @@
               <%= mail_to 'tuhinshahriar@gmail.com', 'tuhinshahriar@gmail.com', class: 'email' %>
             </div>
             <div class="community-icon">
-              <a href="" class="social-icon fb"></a>
-              <a href="" class="social-icon lin"></a>
-              <a href="" class="social-icon gplus"></a>
-              <a href="" class="social-icon skype"></a>
+              <a href="http://facebook.com/shahriarahmmed.tuhin" target="_blank" class="social-icon fb"></a>
+              <a href="http://bd.linkedin.com/in/ahmmed" target="_blank" class="social-icon lin"></a>
+              <a href="http://" class="social-icon gplus"></a>
+
+              <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+              <a href="#" id="SkypeButton_Call_tuhin_ahmmed_1" class="social-icon skype">
+
+              </a>
+
+              <a href="http://" class="social-icon skype"  ></a>
             </div>
             <div class="picon-container"></div>
             <div class="picon-container"></div>
@@ -391,7 +406,7 @@
                 <%= f.text_field :subject, class: 'contact-form' %>
                 <%= f.text_area :message , class: 'contact-form'%>
 
-                <%= f.submit 'Send', class: 'contact-form-submit' %>
+                <%= f.submit 'Send', class: 'btn btn-info contact-form-submit' %>
 
             <% end %>
 
@@ -405,3 +420,11 @@
     </div>
   </div>
 </div>
+<script type="text/javascript">
+    Skype.ui({
+        "name": "call",
+        "element": "SkypeButton_Call_tuhin_ahmmed_1",
+        "participants": ["tuhin_ahmmed"],
+        "imageColor": "white"
+    });
+</script>
