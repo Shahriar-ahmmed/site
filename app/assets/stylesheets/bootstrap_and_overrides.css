@@ -1,10 +1,11 @@
 /*
   =require twitter-bootstrap-static/bootstrap
-
+  =require twitter-bootstrap-static/fontawesome
   Use Font Awesome icons (default)
   To use Glyphicons sprites instead of Font Awesome, replace with "require twitter-bootstrap-static/sprites"
   =require twitter-bootstrap-static/fontawesome
   */
+
 .home,.about,.contact {
     padding-top: 70px;
 }
@@ -43,7 +44,7 @@
 .home-about-me{
  /*border: 1px solid #ffffff;*/
  margin-top: 100px;
-    text-align: center;
+ text-align: center;
 }
 .home-image{
     width: 300px;
@@ -51,6 +52,17 @@
     border-radius: 150px;
     text-align: center;
 }
+.home .slider-container{
+    width: 100%;
+    border: 1px solid whitesmoke;
+    box-sizing: border-box;
+    box-shadow: 2px 1px 0 0 lavenderblush;
+    margin-top: 100px;
+}
+.home .span7{
+    margin: 0;
+}
+
 .footer{
     background-color: skyblue;
 }
@@ -104,6 +116,9 @@
     text-align: justify;
     padding: 0 44px;
 }
+.divide-line{
+    display: inline-block;
+}
 .icon{
     width: 45px;
     height: 45px;
@@ -129,9 +144,9 @@
     padding-left: 0;
 }
 .doticon{
-    /*width: 90%;*/
-    /*color: #ffffff;*/
-    /*background: #ffffff url("") left center /1% repeat-x scroll content-box;*/
+    width: 90%;
+    color: #ffffff;
+    background: #ffffff url("doticon.png") left center /0.75% repeat-x scroll content-box;
     display: inline-block;
 }
 .clearfix{
@@ -187,6 +202,15 @@ h1,h2,h3,h4,h5,h6{
 }
 .skype{
     background: url("icon.png") repeat scroll 81% 69% transparent;
+    top: -19px;
+    position: relative;
+    cursor: pointer;
+}
+#SkypeButton_Call_tuhin_ahmmed_1_paraElement > a > img{
+    width: 44px;
+    height: 44px;
+    margin: 0 0 0px !important;
+    opacity: 0;
 }
 .contact-form{
     width: 90%;
@@ -195,7 +219,6 @@ h1,h2,h3,h4,h5,h6{
 .contact-form-submit{
     float: right;
     margin-right: 35px;
-    background-color: #72AB00;
 }
 .contact-form-container{
     margin: 10px 0 35px 0;
