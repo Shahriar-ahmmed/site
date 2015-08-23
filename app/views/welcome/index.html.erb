@@ -24,3 +24,17 @@
 <%= render :partial => 'contact' %>
 
 
+<script type="text/javascript">
+    $(document).ready(function(){
+        if(!flux.browser.supportsTransitions)
+            alert("Flux Slider requires a browser that supports CSS3 transitions");
+        window.myFlux = new flux.slider('#slider',{
+            controls: true,
+            captions: false,
+            pagination: false,
+            width: 700,
+            height: 500
+        });
+    });
+
+</script>

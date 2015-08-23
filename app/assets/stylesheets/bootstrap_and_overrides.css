@@ -53,11 +53,14 @@
     text-align: center;
 }
 .home .slider-container{
+    margin-top: 30px;
     width: 100%;
-    border: 1px solid whitesmoke;
-    box-sizing: border-box;
-    box-shadow: 2px 1px 0 0 lavenderblush;
-    margin-top: 100px;
+    float:left;
+    overflow:hidden; /* this is important */
+    position:relative; /* this is important too */
+}
+.slider-container .slider-image{
+    width: 100%;
 }
 .home .span7{
     margin: 0;

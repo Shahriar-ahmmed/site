@@ -36,12 +36,12 @@
               <div class="picon-container"></div>
             </div>
             <div class="contact-form-container span7">
-              <div> <p>Eager to answering your mail</p> </div>
+              <div> <h4> Eager to answering your email. </h4></div>
               <%= form_for '' do |f| %>
-                  <%= f.text_field :name, class: 'contact-form' %>
-                  <%= f.email_field :email, class: 'contact-form' %>
-                  <%= f.text_field :subject, class: 'contact-form' %>
-                  <%= f.text_area :message , class: 'contact-form'%>
+                  <%= f.text_field :name,class: 'contact-form', placeholder: 'Name', required: 'true' %>
+                  <%= f.email_field :email, class: 'contact-form', placeholder: 'Email', required: 'true' %>
+                  <%= f.text_field :subject, class: 'contact-form', placeholder: 'Subject' %>
+                  <%= f.text_area :message , class: 'contact-form', placeholder: 'Message', required: 'true' %>
 
                   <%= f.submit 'Send', class: 'btn btn-info contact-form-submit' %>
 
