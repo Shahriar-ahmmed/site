@@ -38,8 +38,19 @@
 .home,.about{
     min-height: 603px;
 }
+
+.site_flash_container{
+    margin: 72px 20% 0 20% ;
+}
+.site_flash_container .container{
+
+}
+.site_flash_container .flash-container #flash_message_div{
+    text-align: center;
+}
 .home{
-    background: #ffffff url("bimage1.jpg") 0 0/cover no-repeat fixed content-box;
+    background: #ffffff url("bimage1.jpg") no-repeat center center fixed;
+    background-size: auto;
 }
 .home-about-me{
  /*border: 1px solid #ffffff;*/
@@ -225,4 +236,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .contact-form-container{
     margin: 10px 0 35px 0;
+}
+.contact-form-container .contact-form-title{
+    margin: 0 0 20px 0;
 }

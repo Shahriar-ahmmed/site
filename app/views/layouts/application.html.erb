@@ -11,6 +11,14 @@
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="50" >
 
+<div class="site_flash_container navbar navbar-fixed-top flash-less-width" style="z-index: 2001;">
+<div class="flash-container">
+  <div id="flash_message_div">
+    <%= render partial: "/flash_messages" %>
+  </div>
+</div>
+</div>
+
 <%= yield %>
 
 <%= render :partial => 'welcome/footer' %>

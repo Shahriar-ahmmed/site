@@ -21,7 +21,7 @@
 <%= render :partial => 'home' %>
 <%= render :partial => 'resume' %>
 <%= render :partial => 'about' %>
-<%= render :partial => 'contact' %>
+<%= render :partial => 'contact', :locals => {viewer: @viewer} %>
 
 
 <script type="text/javascript">
