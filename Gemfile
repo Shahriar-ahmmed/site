@@ -18,6 +18,10 @@ gem 'therubyracer'
 gem 'execjs'
 
 gem 'bcrypt-ruby', '~> 3.0.0'
+gem 'action_mailer_tls'
+
+
+
 
 # Use unicorn as the app server
 # gem 'unicorn'
