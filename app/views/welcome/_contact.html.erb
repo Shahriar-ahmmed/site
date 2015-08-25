@@ -1,9 +1,9 @@
 <div class="contact" id="contact">
   <div class="row-fluid">
     <div class="container-fluid">
-      <div class="span2"></div>
+      <div class="span1"></div>
 
-      <div class="span8">
+      <div class="span10">
         <div class="row-fluid">
           <div class="container-fluid">
             <h2 class="contact-title">CONTACT</h2>
@@ -38,10 +38,10 @@
             <div class="contact-form-container span7">
               <div> <h4 class="contact-form-title"> Eager to answering your email. </h4></div>
               <%= form_for 'viewer', url: 'welcome/send_mail', remote: 'true' do |f| %>
-                  <%= f.text_field :name,class: 'contact-form', placeholder: 'Name', required: 'true' %>
-                  <%= f.email_field :email, class: 'contact-form', placeholder: 'Email', required: 'true' %>
-                  <%= f.text_field :subject, class: 'contact-form', placeholder: 'Subject' %>
-                  <%= f.text_area :message , class: 'contact-form', placeholder: 'Message', required: 'true' %>
+                  <%= f.text_field :name,class: 'contact-form-field', placeholder: 'Name', required: 'true' %>
+                  <%= f.email_field :email, class: 'contact-form-field', placeholder: 'Email', required: 'true' %>
+                  <%= f.text_field :subject, class: 'contact-form-field', placeholder: 'Subject' %>
+                  <%= f.text_area :message , class: 'contact-form-field', placeholder: 'Message', required: 'true' %>
 
                   <%= f.submit 'Send', class: 'btn btn-info contact-form-submit' %>
 
@@ -53,7 +53,7 @@
         </div>
       </div>
 
-      <div class="span2"></div>
+      <div class="span1"></div>
     </div>
   </div>
 </div>
