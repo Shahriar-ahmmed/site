@@ -3,7 +3,7 @@ class WelcomeController < ApplicationController
 
     @viewer = ContactEmailer.new
     respond_to do |format|
-      flash[:notice] = 'Welcome to my Website.'
+      #flash[:notice] = 'Welcome to my Website.'
       format.html { }
     end
 
