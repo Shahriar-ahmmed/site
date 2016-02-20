@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c8a823b-31ff-471c-bfa9-3cf0a5ef9cb5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/shahriar_logo.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/DOB-684dceeb10022a4fb02ac6c64cb87267.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/address-4fad064e26e2f10f51e6773787e904b2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-55b59a07b06afc00951805f599ff8184.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-55b59a07b06afc00951805f599ff8184.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-7f5a5d8ef4db5d5586e47856e8e15b46.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-7f5a5d8ef4db5d5586e47856e8e15b46.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/award-11c3e64162895e4dd3cabcc749daa432.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/bimage1-d6d50222eaeec358f6ca5027c45703df.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/cskill-cf6db7a24ff2046f621ed8be03c76330.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/doticon-60af38dfcc683b596aced35175aad012.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/educationicon-529e0ee6cc6db5d3786842bdf1890d12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/email-48eb1fd149d0b75d40a57bdf7b3c152c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/experience-e6d0f7bab33302754bb77d96e13cd18a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/fontawesome-webfont-4a5576eda11ec10e73e1bc1e5cc13eba.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/fontawesome-webfont-5a555be7c82166edbe5603c7fa19bfc7.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/fontawesome-webfont-748acb824ec6cf781401beccead3cfb2.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/fontawesome-webfont-f8154a88507639e8ba69247dcd399af8.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/icon-82da034e499cb9735a96120103564e33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/interest-a58d0c0bfb4a002f4404809376bb0f3c.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jquery.min-c5a89be96c8d2def857e2657b2c155c0.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/lin-09260e99a32496a0fd84d5166594ddcc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/mouse-12b6bbff5012b68fbc49444232b39f35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/options-f53832e26ee90543fdc455c1e1def391.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/phone-a33ce552a050a499334d8bf3c5a51821.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/programming-731f6c981a3579123f471561a2c578be.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/saint_martin-f9b0e130595475d3e76933deda89bdea.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/training-dc7ea77452d510ec8bde94831220dae2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/tuhin-e1628759ecd0958553f8adced36e3043.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/_resume.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/_resume.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/index.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/scrolling-nav.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/scrolling-nav.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/site.iml" afterPath="$PROJECT_DIR$/.idea/site.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="site.iws" />
@@ -71,46 +31,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="welcome_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="19" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="630">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="18" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="462">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrolling-nav.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/scrolling-nav.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="28" selection-start="136" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="525">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="22" selection-start="571" selection-end="571" vertical-scroll-proportion="-4.9" vertical-offset="126" max-vertical-offset="1197">
+            <state line="14" column="14" selection-start="588" selection-end="588" vertical-scroll-proportion="-3.5" vertical-offset="189" max-vertical-offset="1197">
               <folding />
             </state>
           </provider>
@@ -137,7 +61,7 @@
       <file leaf-file-name="bootstrap_and_overrides.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="28" selection-start="854" selection-end="854" vertical-scroll-proportion="1.5454545" vertical-offset="315" max-vertical-offset="7665">
+            <state line="20" column="17" selection-start="483" selection-end="483" vertical-scroll-proportion="0.90234375" vertical-offset="189" max-vertical-offset="8148">
               <folding />
             </state>
           </provider>
@@ -205,8 +129,8 @@
         <option value="$PROJECT_DIR$/app/views/welcome/_resume.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/scrolling-nav.js" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/scrolling-nav.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css" />
       </list>
     </option>
@@ -266,8 +190,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -440,6 +362,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -751,7 +675,11 @@
       <created>1441288003091</created>
       <updated>1441288003091</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="modified navbar on 20.02.16">
+      <created>1455954592477</created>
+      <updated>1455954592477</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -778,6 +706,7 @@
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986626" sideWeight="0.4996016" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.55727553" sideWeight="0.4996016" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.4996016" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.4996016" order="6" side_tool="false" content_ui="tabs" />
@@ -793,7 +722,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986626" sideWeight="0.4996016" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -856,7 +784,8 @@
     <MESSAGE value="gemfile.lock file added&#10;" />
     <MESSAGE value="asset precompile&#10;" />
     <MESSAGE value="after asset precompile in production mode from local &#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="after asset precompile in production mode from local &#10;" />
+    <MESSAGE value="modified navbar on 20.02.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified navbar on 20.02.16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1036,13 +965,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="335" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scrolling-nav.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/mailers/viewer_mailer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="26" selection-start="101" selection-end="107" vertical-scroll-proportion="0.1880597" vertical-offset="0" max-vertical-offset="335" />
@@ -1055,26 +977,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/_resume.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="40" selection-start="2881" selection-end="2881" vertical-scroll-proportion="-19.1" vertical-offset="1023" max-vertical-offset="6636" />
+        <state line="76" column="40" selection-start="2881" selection-end="2881" vertical-scroll-proportion="-19.1" vertical-offset="1023" max-vertical-offset="6636">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="60" column="0" selection-start="2798" selection-end="2798" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1449">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="19" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="18" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
           <folding />
         </state>
       </provider>
@@ -1094,6 +1004,11 @@
         <state line="68" column="31" selection-start="2191" selection-end="2191" vertical-scroll-proportion="-3.341772" vertical-offset="3276" max-vertical-offset="48783" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/_flash_messages.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="9" selection-start="283" selection-end="283" vertical-scroll-proportion="0.25301206" vertical-offset="0" max-vertical-offset="498" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
@@ -1101,14 +1016,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/_flash_messages.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="283" selection-end="283" vertical-scroll-proportion="0.25301206" vertical-offset="0" max-vertical-offset="498" />
+        <state line="15" column="18" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/scrolling-nav.js">
+    <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="136" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+        <state line="19" column="19" selection-start="512" selection-end="512" vertical-scroll-proportion="0.64772725" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scrolling-nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
           <folding />
         </state>
       </provider>
@@ -1120,6 +1044,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="14" selection-start="588" selection-end="588" vertical-scroll-proportion="-3.5" vertical-offset="189" max-vertical-offset="1197">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/scrolling-nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="35" selection-start="427" selection-end="427" vertical-scroll-proportion="0.4090909" vertical-offset="0" max-vertical-offset="616">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
@@ -1127,16 +1065,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="571" selection-end="571" vertical-scroll-proportion="-4.9" vertical-offset="126" max-vertical-offset="1197">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="28" selection-start="854" selection-end="854" vertical-scroll-proportion="1.5454545" vertical-offset="315" max-vertical-offset="7665">
+        <state line="20" column="17" selection-start="483" selection-end="483" vertical-scroll-proportion="0.90234375" vertical-offset="189" max-vertical-offset="8148">
           <folding />
         </state>
       </provider>
