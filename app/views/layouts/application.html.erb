@@ -5,19 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Shahriar Ahmmed Tuhin</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= stylesheet_link_tag   "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
 </head>
-<body data-spy="scroll" data-target=".navbar" data-offset="50" >
-
-<div class="site_flash_container navbar navbar-fixed-top flash-less-width" style="z-index: 2001;">
-<div class="flash-container">
-  <div id="flash_message_div">
-    <%= render partial: "/flash_messages" %>
-  </div>
-</div>
-</div>
+<body >
 
 <%= yield %>
 

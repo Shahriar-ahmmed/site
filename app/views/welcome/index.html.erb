@@ -6,7 +6,10 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-      <a class="brand page-scroll" href="#home">Shahriar</a>
+      <a class="brand page-scroll" href="#home">
+        <span><%= image_tag 'shahriar_logo.png', class: 'brand_image' %></span>
+        <span class="brand-name">AHMMED</span>
+      </a>
       <div class="nav-collapse">
         <ul class="nav">
           <li><%= link_to 'HOME','#home',class: 'page-scroll'  %></li>
@@ -18,6 +21,15 @@
     </div>
   </div>
 </div>
+
+<div class="site_flash_container flash-less-width" style="z-index: 2001;">
+  <div class="flash-container">
+    <div id="flash_message_div">
+      <%= render partial: "/flash_messages" %>
+    </div>
+  </div>
+</div>
+
 <%= render :partial => 'home' %>
 <%= render :partial => 'resume' %>
 <%= render :partial => 'about' %>
